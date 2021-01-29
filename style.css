@@ -72,10 +72,6 @@ p {
     max-width: 1200px;
 }
 
-img {
-    margin-left: 500px;
-}
-
 .end {
     text-align: center;
     margin: 0px;
@@ -85,4 +81,8 @@ img {
     border-width: thin;
     border-color: black;
     border-style: solid;
+}
+
+.container {
+    text-align: center;
 }
